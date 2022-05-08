@@ -1,0 +1,140 @@
+/* Nanum Square */
+@font-face {
+    font-family: 'NanumSquare';
+		font-weight: 300;
+    src: url('./NanumSquareL.eot');
+    src: url('./NanumSquareL.eot?#iefix') format("embedded-opentype"), url('./NanumSquareL.woff') format("woff"), url('./NanumSquareL.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'NanumSquare';
+		font-weight: 400;
+    src: url('./NanumSquareR.eot');
+    src: url('./NanumSquareR.eot?#iefix') format("embedded-opentype"), url('./NanumSquareR.woff') format("woff"), url('./NanumSquareR.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'NanumSquare';
+		font-weight: 600;
+    src: url('./NanumSquareEB.eot');
+    src: url('./NanumSquareEB.eot?#iefix') format("embedded-opentype"), url('./NanumSquareEB.woff') format("woff"), url('./NanumSquareEB.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'NanumSquare';
+		font-weight: 700;
+    src: url('./NanumSquareB.eot');
+    src: url('./NanumSquareB.eot?#iefix') format("embedded-opentype"), url('./NanumSquareB.woff') format("woff"), url('./NanumSquareB.ttf') format("truetype");
+}
+
+/* noto-sans-kr-100 - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./Noto Sans KR-100.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR Thin'),
+       url('./Noto Sans KR-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-100.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-100.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-100.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+/* noto-sans-kr-300 - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./Noto Sans KR-300.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR Light'),
+       url('./Noto Sans KR-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-300.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-300.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+/* noto-sans-kr-regular - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Noto Sans KR-400.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR'),
+       url('./Noto Sans KR-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-400.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-400.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+/* noto-sans-kr-500 - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./Noto Sans KR-500.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR Medium'),
+       url('./Noto Sans KR-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-500.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-500.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+/* noto-sans-kr-700 - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./Noto Sans KR-700.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR Bold'),
+       url('./Noto Sans KR-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-700.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-700.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+/* noto-sans-kr-900 - korean */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./Noto Sans KR-900.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans KR Black'),
+       url('./Noto Sans KR-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Noto Sans KR-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./Noto Sans KR-900.woff') format('woff'), /* Modern Browsers */
+       url('./Noto Sans KR-900.svg#NotoSansKR') format('svg'); /* Legacy iOS */
+}
+
+/* MaruBuri */
+@font-face {
+  font-family: 'MaruBuri';
+  font-style: normal;
+  font-weight: 100;
+  src: local('MaruBuri-ExtraLight'),
+       url('./MaruBuri-ExtraLight.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./MaruBuri-ExtraLight.ttf') format('ttf')
+}
+@font-face {
+  font-family: 'MaruBuri';
+  font-style: normal;
+  font-weight: 300;
+  src: local('MaruBuri-Light'),
+       url('./MaruBuri-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./MaruBuri-Light.ttf') format('ttf')
+}
+@font-face {
+  font-family: 'MaruBuri';
+  font-style: normal;
+  font-weight: 400;
+  src: local('MaruBuri-Regular'),
+       url('./MaruBuri-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./MaruBuri-Regular.ttf') format('ttf')
+}
+@font-face {
+  font-family: 'MaruBuri';
+  font-style: normal;
+  font-weight: 600;
+  src: local('MaruBuri-SemiBold'),
+       url('./MaruBuri-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./MaruBuri-SemiBold.ttf') format('ttf')
+}
+@font-face {
+  font-family: 'MaruBuri';
+  font-style: normal;
+  font-weight: 700;
+  src: local('MaruBuri-Bold'),
+       url('./MaruBuri-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./MaruBuri-Bold.ttf') format('ttf')
+}
